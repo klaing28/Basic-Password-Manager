@@ -1,4 +1,5 @@
 Basic password manager in python
+
 Functionalities: 
   1. Storage and encryption of passwords
   2. Adding new password
